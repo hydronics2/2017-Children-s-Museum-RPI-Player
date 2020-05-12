@@ -19,5 +19,5 @@ The cash register consisted of a single optical sensor and raspberry pi display.
 
 ### Installation pics
 
-![foo](https://github.com/hydronics2/2017-Children-s-Museum-RPI-Player/blob/master/pics/calcultor_wiring.JPG)
+![foo](https://github.com/hydronics2/2017-Children-s-Museum-RPI-Player/blob/master/pics/calculator_wiring.JPG)
 ![foo](https://github.com/hydronics2/2017-Children-s-Museum-RPI-Player/blob/master/pics/calculator_wiring2.JPG)
