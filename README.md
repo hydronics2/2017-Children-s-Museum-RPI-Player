@@ -14,3 +14,10 @@ The calculator consists of an 11 button calculator and raspberry pi display.
 The cash register consisted of a single optical sensor and raspberry pi display.
 
 [![Foo](https://github.com/hydronics2/2017-Children-s-Museum-RPI-Player/blob/master/pics/video_cash_register.JPG)](https://youtu.be/5860N75-lEc)
+
+
+
+### Installation pics
+
+![foo](https://github.com/hydronics2/2017-Children-s-Museum-RPI-Player/blob/master/pics/calcultor_wiring.JPG)
+![foo](https://github.com/hydronics2/2017-Children-s-Museum-RPI-Player/blob/master/pics/calculator_wiring2.JPG)
